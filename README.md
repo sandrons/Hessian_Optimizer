@@ -14,4 +14,4 @@ The first momentum is as Adam, compute the momentum gradient. In the second mome
 
 ## Implementation
 
-See the [notebook](./Hessian_Optimizer.ipynb) for details.
+See the [notebook](./Hessian_optimizer.ipynb) for details.
